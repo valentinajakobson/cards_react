@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Quattrocento');
+
+.Persons {
+  height: 300px;
+  width: 200px;
+  background-color: #938696;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: 'Quattrocento';
+  overflow: hidden;
+}
+
+input {
+  padding: 5px;
+  width: 180px;
+}

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Quattrocento');
+
+button {
+  display: block;
+  padding: 6px;
+  margin: 0 auto;
+}
+
+body {
+  background-image: linear-gradient(to right top, #435875, #506294, #6b6aaf, #916dc5, #bf6bd2);
+  background-attachment: fixed;
+  width: 750px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: 'Quattrocento';
+  text-align: center;
+}
